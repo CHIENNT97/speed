@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 echo ======================================================
-echo    ĐANG ĐỒNG BỘ CODE LÊN GITHUB: CHIENNT97/openwrt_speed
+echo    ĐANG ĐỒNG BỘ CODE LÊN GITHUB: CHIENNT97/speed
 echo ======================================================
 echo.
 
@@ -24,7 +24,7 @@ if %ERRORLEVEL% equ 0 (
     echo.
     echo ======================================================
     echo    ✔ ĐÃ ĐỒNG BỘ THÀNH CÔNG LÊN GITHUB!
-    echo    Xem tại: https://github.com/CHIENNT97/openwrt_speed
+    echo    Xem tại: https://github.com/CHIENNT97/speed
     echo ======================================================
 ) else (
     echo.

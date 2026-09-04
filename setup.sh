@@ -6,7 +6,7 @@
 
 # Thiết lập URL Repository GitHub
 GITHUB_USER="${GITHUB_USER:-CHIENNT97}"
-GITHUB_REPO="${GITHUB_REPO:-openwrt_speed}"
+GITHUB_REPO="${GITHUB_REPO:-speed}"
 BRANCH="${BRANCH:-main}"
 
 # URL cơ sở tải raw tệp từ GitHub
