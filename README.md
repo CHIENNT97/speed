@@ -7,12 +7,12 @@ A lightweight, high-performance HTML5 Speedtest designed specifically for OpenWr
 Run this single command on your OpenWrt terminal via SSH to display the interactive **Install / Uninstall** menu:
 
 ```bash
-sh -c "$(curl -kfsSL https://raw.githubusercontent.com/CHIENNT97/openwrt_speed/main/setup.sh)"
+sh -c "$(curl -kfsSL https://github.com/CHIENNT97/speed.git setup.sh)"
 ```
 
 Or using `wget`:
 ```bash
-wget --no-check-certificate -qO- https://raw.githubusercontent.com/CHIENNT97/openwrt_speed/main/setup.sh | sh
+wget --no-check-certificate -qO-https://github.com/CHIENNT97/speed.git setup.sh | sh
 ```
 
 ### Interactive Menu
